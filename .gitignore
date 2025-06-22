@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual env
+venv/
+.venv/
+
+# IDE
+.idea/
+
+
+
+
+# Selenium downloads
+downloads/
+chromedriver.exe
+geckodriver.exe
